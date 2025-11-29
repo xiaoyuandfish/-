@@ -1,0 +1,5 @@
+{
+  "name": "UniSchedule AI",
+  "description": "A smart university course scheduler. Manage your classes manually or upload a photo of your timetable to have Gemini AI automatically parse and schedule it for you.",
+  "requestFramePermissions": []
+}
